@@ -40,7 +40,7 @@ System and API Design · Data Ingestion and ETL Pipelines · Service Virtualizat
 
 - Investigated and drove resolution of 3 additional defects uncovered through the new telemetry over the following year, converting hidden runtime issues into tracked engineering work.
 
-- Led stakeholder-driven UI/UX iteration by gathering feedback, producing UX mocks, and using TDD to deliver visual refreshes and quality-of-life improvements without disrupting existing workflows.
+- Led UI/UX iteration for tooling used by 5 teams (Overwatch, Diablo, Hearthstone, Service Tech, Overwatch Rush), gathering feedback from 3 stakeholders, producing UX mocks, and using TDD to ship 20+ quality-of-life improvements without disrupting existing workflows.
 
 
 
